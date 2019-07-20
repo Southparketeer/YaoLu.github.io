@@ -25,6 +25,7 @@ George Washington University
 * Key techniques: SLAM, CUDA, C++, OpenCV, solving non-linear optimization problems.
 * Project code: https://github.com/Southparketeer/3D-Human-Body-Surface-Reconstruction-System
 * Project website: https://icg.gwu.edu/rgb-d-scan-surface-human-body-biomedical-applications
+* Media: https://www.youtube.com/watch?v=2wEi4VGE3sQ&t=10s
 
 ## 3D Shape-based Cardiovascular Metabolic Disease Risk Prediction (Machine Learning, Deep Learning)
 * Period: 2017 - Now
