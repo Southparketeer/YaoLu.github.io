@@ -41,11 +41,3 @@ George Washington University
 * Key techniques: Monte Carlo Simulation, Statistic Learning, LASSO, Ridge, Elastic-Net.
 * Remark1: Outperform LASSO, Ridge, Elastic-Net in most benchmark datasets.
 * Implement with MATLAB, Python, TensorFlow, Numpy, Scikit-learn, Pandas, Scipy, C++.
-
-# skills
-C++ (7 years), Matlab (3 years), CUDA (5 years), OpenCL (7 years), Computer Vision (7 years),
-Machine Learning (5 years), Python (2 years), TensorFlow (1 year), Simultaneous Localization and
-Mapping (SLAM) (5 years), 3D Reconstruction (6 years), Computer Graphics (7 years), Unity, Opencv
-(5 years), Computer Science, Algorithm (7 years), 3D (7 years), C (8 years), Neural Network (2 years),
-Numpy, Scipy, Scikit-learn, Pandas, Unity (3 years), Maya (3 years), Blender (3D Modeling) (5 years),
-OpenGL (7 years)
