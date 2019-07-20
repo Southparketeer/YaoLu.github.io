@@ -1,7 +1,5 @@
-# Yao Lu 
-PhD of Computer Science
-
-George Washington University
+# Yao LU 
+PhD of Computer Science, George Washington University
 
 # Summary
 * PhD of Computer Science, focusing Computer Vision and Machine Learning, theory and application.
