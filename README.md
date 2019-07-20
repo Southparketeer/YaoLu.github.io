@@ -10,7 +10,7 @@ George Washington University
 
 # Porjects
 ## Hierarchical Multi-view Heterogeneous Large-scale 3D Reconstruction System (Computer Vision, SLAM, 3D Reconstruction)	
-* Period: 2014 -2015
+* **Period: 2014 -2015**
 * Project description: Fuse measurements from a wide variety of sensors modalities including infrared optical motion capture, depth camera, color cameras and laser range-finders in real-time.
 * Contribution: Addressed updating the map with moving sensor and the static sensors; Developed a GPU based real-time camera tracking, volumetric fusion and volume rendering system.
 * Key techniques: SLAM, CUDA, OpenCL, C++, OpenCV, GPU performance optimization.
@@ -18,7 +18,7 @@ George Washington University
 * Project website: https://icg.gwu.edu/hierarchical-multi-view-heterogeneous-large-scale-3d-capture-system
 
 ## Accurate 3D Human Body Surface Reconstruction (Computer Vision, 3D Reconstruction)
-* \bold{Period: 2015 - 2017}
+* **Period: 2015 - 2017**    
 * Project description: Build an accurate 3D surface reconstruction system using two depth sensors.
 * Contribution: Take fully charge of back-end development, including pre-processing, i.e., depth images to partial 3D meshes using real-time volumetric fusion algorithm, and post-processing, i.e., multi-stage non-rigid registration.
 * Remark: Accuracy has been validated with large-scale subject test, outperform state-of-the-art.
@@ -28,7 +28,7 @@ George Washington University
 * Media: https://www.youtube.com/watch?v=2wEi4VGE3sQ&t=10s
 
 ## 3D Shape-based Cardiovascular Metabolic Disease Risk Prediction (Machine Learning, Deep Learning)
-* Period: 2017 - Present
+* **Period: 2017 - Present**
 ### Feature Analysis
 * Convert high-dimensional 3D geometry features into effective trainable features.
 * Key techniques: Haar-wavelet, Fourier Analysis, Principle Component Analysis, B-Spline, Functional Feature Analysis, Hierarchical Clustering, Self-Organizing Map, Convolutional Neural Networks, Transfer Learning, Cylinder Mapping, Quadric Fitting Mean Curvature Mapping.
