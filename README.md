@@ -42,7 +42,7 @@ George Washington University
 * Remark1: Outperform LASSO, Ridge, Elastic-Net in most benchmark datasets.
 * Implement with MATLAB, Python, TensorFlow, Numpy, Scikit-learn, Pandas, Scipy, C++.
 
-#skills
+# skills
 C++ (7 years), Matlab (3 years), CUDA (5 years), OpenCL (7 years), Computer Vision (7 years),
 Machine Learning (5 years), Python (2 years), TensorFlow (1 year), Simultaneous Localization and
 Mapping (SLAM) (5 years), 3D Reconstruction (6 years), Computer Graphics (7 years), Unity, Opencv
