@@ -1,7 +1,6 @@
 # Yao Lu 
 
 PhD of Computer Science
-
 San Jose, CA
 
 # Summary
