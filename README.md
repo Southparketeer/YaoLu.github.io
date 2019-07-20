@@ -37,7 +37,7 @@ George Washington University
 * Key techniques: Neural Networks, Probabilistic Graphical Models, Support Vector Machines, Gaussian Processes, Functional Data Analysis, K-fold Cross Validation with Holdout, Dropout, Bootstrapping.
 * A polit project: https://github.com/Southparketeer/3D-Geometry-Deep-Learning-for-Cardiovascular-Metabolic-Risk-Prediction
 
-### Research in New Method to Conquer Overfitting
+### Research Topic: Conquer Overfitting
 * Proposed a highly innovative method to evaluate the risk of overfitting for feature and model selection.
 * Key techniques: Monte Carlo Simulation, Statistic Learning, LASSO, Ridge, Elastic-Net.
 * Remark1: Outperform LASSO, Ridge, Elastic-Net in most benchmark datasets.
