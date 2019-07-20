@@ -23,17 +23,19 @@ George Washington University
 * Contribution: Take fully charge of back-end development, including pre-processing, i.e., depth images to partial 3D meshes using real-time volumetric fusion algorithm, and post-processing, i.e., multi-stage non-rigid registration.
 * Remark: Accuracy has been validated with large-scale subject test, outperform state-of-the-art.
 * Key techniques: SLAM, CUDA, C++, OpenCV, solving non-linear optimization problems.
-* Project Code: https://github.com/Southparketeer/3D-Human-Body-Surface-Reconstruction-System
+* Project code: https://github.com/Southparketeer/3D-Human-Body-Surface-Reconstruction-System
 * Project website: https://icg.gwu.edu/rgb-d-scan-surface-human-body-biomedical-applications
 
 ## 3D Shape-based Cardiovascular Metabolic Disease Risk Prediction (Machine Learning, Deep Learning)
-* Period: 2017 - 2019
+* Period: 2017 - Now
 ### Feature Analysis
 * Convert high-dimensional 3D geometry features into effective trainable features.
 * Key techniques: Haar-wavelet, Fourier Analysis, Principle Component Analysis, B-Spline, Functional Feature Analysis, Hierarchical Clustering, Self-Organizing Map, Convolutional Neural Networks, Transfer Learning, Cylinder Mapping, Quadric Fitting Mean Curvature Mapping.
 ### Model Training, Evaluation, Comparison
 * Explore supervised learning models for cardiovascular metabolic disease risk and adiposity distribution prediction. Compare models w.r.t accuracy and interpretability.
 * Key techniques: Neural Networks, Probabilistic Graphical Models, Support Vector Machines, Gaussian Processes, Functional Data Analysis, K-fold Cross Validation with Holdout, Dropout, Bootstrapping.
+* A polit project: https://github.com/Southparketeer/3D-Geometry-Deep-Learning-for-Cardiovascular-Metabolic-Risk-Prediction
+
 ### Research in New Method to Conquer Overfitting
 * Proposed a highly innovative method to evaluate the risk of overfitting for feature and model selection.
 * Key techniques: Monte Carlo Simulation, Statistic Learning, LASSO, Ridge, Elastic-Net.
