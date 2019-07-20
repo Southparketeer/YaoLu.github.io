@@ -29,7 +29,7 @@ George Washington University
 
 ## 3D Shape-based Cardiovascular Metabolic Disease Risk Prediction (Machine Learning, Deep Learning)
 **Period: 2017 - Present**
-### Feature Analysis
+### 3D Geometry Feature Analysis for Medical Application
 * Convert high-dimensional 3D geometry features into effective trainable features.
 * Key techniques: Haar-wavelet, Fourier Analysis, Principle Component Analysis, B-Spline, Functional Feature Analysis, Hierarchical Clustering, Self-Organizing Map, Convolutional Neural Networks, Transfer Learning, Cylinder Mapping, Quadric Fitting Mean Curvature Mapping.
 ### Model Training, Evaluation, Comparison
