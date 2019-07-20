@@ -18,7 +18,7 @@ George Washington University
 * Project website: https://icg.gwu.edu/hierarchical-multi-view-heterogeneous-large-scale-3d-capture-system
 
 ## Accurate 3D Human Body Surface Reconstruction (Computer Vision, 3D Reconstruction)
-* Period: 2015 - 2017
+* \bold{Period: 2015 - 2017}
 * Project description: Build an accurate 3D surface reconstruction system using two depth sensors.
 * Contribution: Take fully charge of back-end development, including pre-processing, i.e., depth images to partial 3D meshes using real-time volumetric fusion algorithm, and post-processing, i.e., multi-stage non-rigid registration.
 * Remark: Accuracy has been validated with large-scale subject test, outperform state-of-the-art.
